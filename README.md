@@ -1,6 +1,6 @@
 # 🌟 SmartFin - Hedera-Powered Financial Management via Telegram 🌟
 
-**SmartFin** is a cutting-edge AI-driven financial management platform enhanced with **Hedera Hashgraph** and an interactive **Telegram bot**, empowering businesses to manage finances, send tokens, create airdrops, and reward customers seamlessly through chat.
+**SmartFin** is a cutting-edge AI-driven financial management platform enhanced with **Hedera Hashgraph** 
 
 ---
 
