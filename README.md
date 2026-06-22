@@ -153,4 +153,4 @@ Contributions welcome! Fork the repo, open a pull request, and join us in revolu
 
 _Empower your business with AI, Hedera, and Telegram — SmartFin makes finance seamless!_
 
-## Just an extra paragraph
+s
