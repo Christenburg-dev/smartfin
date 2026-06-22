@@ -1,6 +1,6 @@
 # 🌟 SmartFin - Hedera-Powered Financial Management via Telegram 🌟
 
-**SmartFin** is a cutting-edge AI-driven financial management platform enhanced with **Hedera Hashgraph** 
+**SmartFin** is a cutting-edge AI-driven financial management platform enhanced with **Hedera Hashgraph**
 
 ---
 
@@ -10,23 +10,23 @@
 
 ### 1. Hedera-Powered Transactions
 
-* 🔁 **Instant HBAR Transfers:** Send HBAR tokens to any customer in your database directly from Telegram.
-* 🎁 **Automated Airdrops:** Schedule or trigger token distributions to user segments or your entire customer base.
-* 🎉 **Custom Gifting:** Create personalized token gifts to thank or incentivize individual customers.
-* ⚡ **Micro-fee Efficiency:** Leverage Hedera’s low transaction fees for cost-effective micropayments.
+- 🔁 **Instant HBAR Transfers:** Send HBAR tokens to any customer in your database directly from Telegram.
+- 🎁 **Automated Airdrops:** Schedule or trigger token distributions to user segments or your entire customer base.
+- 🎉 **Custom Gifting:** Create personalized token gifts to thank or incentivize individual customers.
+- ⚡ **Micro-fee Efficiency:** Leverage Hedera’s low transaction fees for cost-effective micropayments.
 
 ### 2. AI-Driven Financial Insights
 
-* 📊 **Real-Time Tracking:** Monitor incomes, expenses, and transaction flows with live dashboards.
-* 🤖 **Smart Recommendations:** Receive AI-powered suggestions for budgeting, expense reduction, and growth strategies.
-* 📈 **Custom Reports:** Generate downloadable analytics and visualizations for stakeholders.
+- 📊 **Real-Time Tracking:** Monitor incomes, expenses, and transaction flows with live dashboards.
+- 🤖 **Smart Recommendations:** Receive AI-powered suggestions for budgeting, expense reduction, and growth strategies.
+- 📈 **Custom Reports:** Generate downloadable analytics and visualizations for stakeholders.
 
 ### 3. Telegram Bot Integration
 
 Interact with **@Finnebulabot** on Telegram for a fully conversational financial experience:
 
-* 💬 **Chat Commands:** Intuitive commands to manage tokens, check balances, and review history.
-* 🔔 **Notifications:** Automated alerts for incoming payments, upcoming airdrops, and low balances.
+- 💬 **Chat Commands:** Intuitive commands to manage tokens, check balances, and review history.
+- 🔔 **Notifications:** Automated alerts for incoming payments, upcoming airdrops, and low balances.
 
 🔗 **Launch the bot:** [@Finnebulabot](https://web.telegram.org/k/#@Finnebulabot)
 
@@ -45,10 +45,10 @@ Interact with **@Finnebulabot** on Telegram for a fully conversational financial
                                                 --> [AI Insights Engine (Node.js/Python)]
 ```
 
-* **Finnebulabot Service:** Receives and processes Telegram commands, validates user sessions, and routes requests to SmartFin API.
-* **SmartFin API:** Core backend in Next.js handling business logic, AI integrations, and Hedera SDK interactions.
-* **Hedera Network:** Executes token operations—transfers, airdrops, token minting via Hedera Token Service.
-* **MongoDB:** Stores user profiles, transaction logs, bot settings, and AI-generated insights.
+- **Finnebulabot Service:** Receives and processes Telegram commands, validates user sessions, and routes requests to SmartFin API.
+- **SmartFin API:** Core backend in Next.js handling business logic, AI integrations, and Hedera SDK interactions.
+- **Hedera Network:** Executes token operations—transfers, airdrops, token minting via Hedera Token Service.
+- **MongoDB:** Stores user profiles, transaction logs, bot settings, and AI-generated insights.
 
 ---
 
@@ -71,10 +71,10 @@ Interact with **@Finnebulabot** on Telegram for a fully conversational financial
 
 ### Prerequisites
 
-* **Node.js** v14 or above
-* **MongoDB** instance (local or Atlas)
-* **Hedera Account:** Operator ID & Private Key
-* **Telegram Bot:** Token from BotFather
+- **Node.js** v14 or above
+- **MongoDB** instance (local or Atlas)
+- **Hedera Account:** Operator ID & Private Key
+- **Telegram Bot:** Token from BotFather
 
 ### Setup & Installation
 
@@ -84,11 +84,13 @@ Interact with **@Finnebulabot** on Telegram for a fully conversational financial
    git clone https://github.com/Ekenesamuel8/smartfin.git
    cd smartfin
    ```
+
 2. **Install dependencies:**
 
    ```bash
    npm install
    ```
+
 3. **Environment variables:** Create a `.env` file in the project root with:
 
    ```env
@@ -100,11 +102,13 @@ Interact with **@Finnebulabot** on Telegram for a fully conversational financial
    TELEGRAM_BOT_TOKEN=<your_telegram_bot_token>
    GOOGLE_API_KEY=<your_google_api_key>
    ```
+
 4. **Start SmartFin API & Web:**
 
    ```bash
    npm run dev
    ```
+
 5. **Launch Telegram Bot Service:**
 
    ```bash
@@ -112,6 +116,7 @@ Interact with **@Finnebulabot** on Telegram for a fully conversational financial
    npm install
    npm run test-telegram
    ```
+
 6. **Interact with SmartFin:** Open Telegram and chat with [@Finnebulabot](https://web.telegram.org/k/#@Finnebulabot).
 
 ---
@@ -138,12 +143,14 @@ smartfin/
 
 ## 🌟 Contributors
 
-* **Okoye Emmanuel Obiajulu** ([Obiajulu-gif](https://github.com/Obiajulu-gif/))
-* **Ekene Samuel Chinwendu** ([Ekenesamuel8](https://github.com/Ekenesamuel8/))
-* **Okeoma Amaobi** ([OkeyAmy](https://github.com/OkeyAmy))
+- **Okoye Emmanuel Obiajulu** ([Obiajulu-gif](https://github.com/Obiajulu-gif/))
+- **Ekene Samuel Chinwendu** ([Ekenesamuel8](https://github.com/Ekenesamuel8/))
+- **Okeoma Amaobi** ([OkeyAmy](https://github.com/OkeyAmy))
 
 Contributions welcome! Fork the repo, open a pull request, and join us in revolutionizing financial automation.
 
 ---
 
-*Empower your business with AI, Hedera, and Telegram — SmartFin makes finance seamless!*
+_Empower your business with AI, Hedera, and Telegram — SmartFin makes finance seamless!_
+
+## Just an extra paragraph
